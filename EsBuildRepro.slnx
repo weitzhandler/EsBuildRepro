@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EsBuildRepro/EsBuildRepro.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
